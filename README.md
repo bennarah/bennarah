@@ -1,35 +1,27 @@
 # Hey, I'm Bassma 💗
 
-CS student at Cal State Fullerton building with both creativity and technical depth. I'm a Team Coordinator for Women in Business & STEM (WIBS) at CSUF, and on the technical side I've worked with React, TypeScript, Firebase, C++, and Python.
+---
 
-I look forward to applying both my creativity and technical skills to future project management and product design roles.
+CS student at Cal State Fullerton (graduating Dec 2026) who leads product and development, from scoping an MVP to building the app myself. Right now I'm the Product Manager and Developer for Coffee Tenet, and I've worked with Flutter, Supabase, React, TypeScript, Python, and C++.
+
+I'm looking for product management and software engineering roles where I can own both the planning and the building.
 
 ---
 
-## 🛠 What I'm Building
+## 🛠️ What I'm Building
 
-- 🐻‍❄️ **Nanuk** — scan a product barcode and get a sustainability-focused breakdown of what's actually in it
-- 🐶 **Rey** — an AI-powered desktop companion that helps beginner programmers with terminal questions 🐾
+- ☕ **Coffee Tenet**: a social café discovery app built around the 4C framework (Coffee, Culinary, Context, Community). Built solo in Flutter and Supabase.
+- 🎵 **Music Vault**: a music discovery web app that recommends lesser-known artists and forgotten classics based on what you already listen to. Connects to Spotify and shows a breakdown of your taste by genre and artist. Team capstone project built with React, Express, and the Spotify Web API.
+
+## 📁 Past Projects
+
+- 🐼 **Nanuk**: scan a product barcode and get a sustainability-focused breakdown of what's actually in it
+- 🐶 **Rey**: an AI-powered desktop companion that helps beginner programmers with terminal questions 🐾
 
 ---
 
-## 📬 Let's Connect
+## 📫 Let's Connect
 
-- 🌐 portfolio → *coming soon*
-- 💼 linkedin → [linkedin.com/in/bassma-ennarah](https://www.linkedin.com/in/bassma-ennarah/)
-- 📧 email → bassma.ennarah@gmail.com
-
-<!--
-**bennarah/bennarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 portfolio → [bassma-ennarah.vercel.app](https://bassma-ennarah.vercel.app)
+- 💼 linkedin → [linkedin.com/in/bassma-ennarah](https://linkedin.com/in/bassma-ennarah)
+- 📧 email → [bassma.ennarah@gmail.com](mailto:bassma.ennarah@gmail.com)
