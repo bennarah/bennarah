@@ -2,7 +2,7 @@
 
 ---
 
-CS student at Cal State Fullerton (graduating Dec 2026) who leads product and development, from scoping an MVP to building the app myself. Right now I'm the Product Manager and Developer for Coffee Tenet, and I've worked with Flutter, Supabase, React, TypeScript, Python, and C++.
+CS student at Cal State Fullerton who leads product and development, from scoping an MVP to building the app myself. Right now I'm the Product Manager and Developer for Coffee Tenet, and I've worked with Flutter, Supabase, React, TypeScript, Python, and C++.
 
 I'm looking for product management and software engineering roles where I can own both the planning and the building.
 
